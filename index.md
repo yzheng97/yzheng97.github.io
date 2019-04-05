@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on **3D vision** and **complex activity analysis**.</font><br /> 
+
+# About Me
+<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on 3D vision and complex activity analysis.</font><br /> 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
