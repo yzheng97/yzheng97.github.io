@@ -4,14 +4,18 @@ layout: default
 
 
 # About Me
-<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
+<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a> href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
+
+
 
 
 # Updates
-<font size="3"><li><strong>[2019/02/25]</strong>2 papers accepted by CVPR'19</li></font>
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<font size="3"><li><strong>[2019/02/25]</strong>2 papers accepted by <a> href="http://cvpr2019.thecvf.com/"> CVPR'19</a></li></font>
 
-## Header 2
+
+
+
+# Publications
 
 > This is a blockquote following a header.
 >
