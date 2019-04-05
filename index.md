@@ -11,9 +11,17 @@ layout: default
 
 # Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<table class="pub_table">
+<tbody>
+
+    <tr>
+		<td class="pub_td1"><img src="assets/img/SRN.png" class="papericon"></td>
+        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="doc/publications/SRN.pdf">PDF</a>]
+	</tr>
+	</tbody>
+</table>
+                    
+                                
 
 ### Header 3
 
