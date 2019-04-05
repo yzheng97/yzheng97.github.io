@@ -1,6 +1,6 @@
 # About Me
 
-<li>I am a fifth year Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. Jie Zhou and Prof. Jiwen Lu</li>
+<li><font size="2">I am a fifth year Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. Jie Zhou and Prof. Jiwen Lu.</font><br /> </li>
 
 
 ---
