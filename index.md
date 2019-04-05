@@ -6,8 +6,9 @@ layout: default
 # About Me
 <font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
 
-# Updates
 
+# Updates
+<font size="3"><li>Undergraduate, Tsinghua University</li></font>
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
