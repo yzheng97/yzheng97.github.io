@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<font size="3">I am a 4th year CS PhD student at Stanford working with Fei-Fei Li and Juan Carlos Niebles. I have also worked with Silvio Savarese in my first year. My recent research interests focus on human activity analysis and video understanding.</font><br /> 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
