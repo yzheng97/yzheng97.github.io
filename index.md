@@ -4,16 +4,9 @@ layout: default
 
 
 # About Me
-<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on 3D vision and complex activity analysis.</font><br /> 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<font size="3">I am a 4th year undergraduate at Tsinghua University working with Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent research interests focus on **3D vision** and complex activity analysis.</font>
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Updates
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
