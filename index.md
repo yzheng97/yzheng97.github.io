@@ -14,13 +14,13 @@ layout: default
 <tbody>
 
     <tr>
-		<td class="pub_td1"><img src="assets/img/SRN.png" class="papericon" height="120" width="230"></td>
+		<td class="pub_td1"><img src="assets/img/SRN.png" class="papericon" height="100" width="250"></td>
         <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="docs/publications/SRN.pdf">PDF</a>]
 		</td>
 	</tr>
 	
 	<tr>
-		<td class="pub_td1"><img src="assets/img/coin.png" class="papericon" height="120" width="230"></td>
+		<td class="pub_td1"><img src="assets/img/coin.png" class="papericon" height="100" width="250"></td>
         <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
 
 		</td>
