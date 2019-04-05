@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-# About Me
 
-<li><font size="4">I am a fifth year Ph.D. candidate in the Department of Automation at Tsinghua University, advised by Prof. Jie Zhou and Prof. Jiwen Lu.</font><br /> </li>
+# About Me
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
