@@ -16,9 +16,10 @@ layout: default
 
     <tr>
 		<td class="pub_td1"><img src="assets/img/SRN.png" class="papericon"></td>
-        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="doc/publications/SRN.pdf">PDF</a>]
+        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="docs/publications/SRN.pdf">PDF</a>]
+		</td>
 	</tr>
-	</tbody>
+</tbody>
 </table>
                     
                                 
