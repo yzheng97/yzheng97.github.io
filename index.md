@@ -23,7 +23,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 	
 	<tr>
 		<td class="pub_td1"><img src="assets/img/coin.png" class="papericon" height="90" width="270"></td>
-        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
+        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
 
 		</td>
 	</tr>
