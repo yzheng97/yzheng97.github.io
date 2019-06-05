@@ -9,8 +9,8 @@ Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/201105061055320
 research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
 <br />
 <h2>Updates</h2>
-<font size="3"><li><strong>[2019/02/25]</strong> 2 papers accepted by <a href="http://cvpr2019.thecvf.com/"> CVPR'19</a>.</li></font>
 <font size="3"><li><strong>[2019/06/05]</strong> I am honored with the Future Scholar Scholarship of Tsinghua University.</li></font>
+<font size="3"><li><strong>[2019/02/25]</strong> 2 papers accepted by <a href="http://cvpr2019.thecvf.com/"> CVPR'19</a>.</li></font>
 <br />
 <h2>Publications</h2>
 <table class="pub_table">
