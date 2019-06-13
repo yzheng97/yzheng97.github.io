@@ -18,7 +18,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
     <tr>
 		<td class="pub_td1"><img src="assets/img/SRN.png" class="papericon" height="90" width="270"></td>
-        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="docs/publications/SRN.pdf">PDF</a>]
+        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Jiwen Lu, Jie Zhou, and Qi Tian<br><strong>Structural Relational Reasoning of Point Clouds.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="docs/publications/SRN.pdf">PDF</a>][<a href="https://github.com/duanyq14/SRN">Code</a>]
 		</td>
 	</tr>
 	
