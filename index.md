@@ -19,7 +19,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 	<tr>
 		<td class="pub_td1"><img src="assets/img/riou.png" class="papericon" height="90" width="270"></td>
-        <td class="pub_td2">Yueqi Duan, <u>Yu Zheng</u>, Danyang Zhang, Sinan Xie, Jiwen Lu, Jie Zhou<br><strong>Rotation-robust Intersection over Union for 3D Object Detection.</strong><br><i>European Conference on Computer Vision (ECCV)</i>, 2020, accepted.<br>
+        <td class="pub_td2"><u>Yu Zheng</u>, Danyang Zhang, Sinan Xie, Jiwen Lu, Jie Zhou<br><strong>Rotation-robust Intersection over Union for 3D Object Detection.</strong><br><i>European Conference on Computer Vision (ECCV)</i>, 2020, accepted.<br>
 		</td>
 	</tr>
 
