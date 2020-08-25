@@ -3,7 +3,7 @@
 
 
 <h2>About Me</h2>
-<font size="3">I am a 1st year Ph.D. candidate in the <a href="http://www.au.tsinghua.edu.cn/publish/auen/index.html"> Department 
+<font size="3">I am a 2nd year Ph.D. candidate in the <a href="http://www.au.tsinghua.edu.cn/publish/auen/index.html"> Department 
 of Automation</a> at <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University</a>, advised by 
 Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110506105532098625469/20110506105532098625469_.html"> Jie Zhou</a> and Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent 
 research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
