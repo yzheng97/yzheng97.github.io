@@ -19,7 +19,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 	<tr>
 		<td class="pub_td1"><img src="assets/img/riou.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Danyang Zhang, Sinan Xie, Jiwen Lu, Jie Zhou<br><strong>Rotation-robust Intersection over Union for 3D Object Detection.</strong><br><i>European Conference on Computer Vision (ECCV)</i>, 2020, accepted.<br>
+        <td class="pub_td2"><u>Yu Zheng</u>, Danyang Zhang, Sinan Xie, Jiwen Lu, Jie Zhou<br><strong>Rotation-robust Intersection over Union for 3D Object Detection.</strong><br><i>European Conference on Computer Vision (ECCV)</i>, 2020, accepted.<br>[<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650460.pdf">PDF</a>][<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650460-supp.pdf">Supp</a>][<a href="docs/code/riou.py">Code</a>]
 		</td>
 	</tr>
 
@@ -31,7 +31,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 	
 	<tr>
 		<td class="pub_td1"><img src="assets/img/coin.png" class="papericon" height="75" width="270"></td>
-        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
+        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Tang_COIN_A_Large-Scale_CVPR_2019_supplemental.pdf">Supp</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
 
 		</td>
 	</tr>
