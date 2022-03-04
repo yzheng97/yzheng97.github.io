@@ -21,7 +21,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 	<tr>
 		<td class="pub_td1"><img src="assets/img/hyperdet3d.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>. HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong> HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
 		</td>
 	</tr>
 	
