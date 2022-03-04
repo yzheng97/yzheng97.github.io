@@ -27,7 +27,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 	
 	<tr>
 		<td class="pub_td1"><img src="assets/img/br.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2">Xiuwei Xu, Wang Yifan, <u>Yu Zheng</u>, Yongming Rao, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2">Xiuwei Xu, Wang Yifan, <u>Yu Zheng</u>, Yongming Rao, Jiwen Lu, Jie Zhou<br><strong>Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
 		</td>
 	</tr>
 
