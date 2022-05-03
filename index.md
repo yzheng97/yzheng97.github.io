@@ -58,3 +58,9 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
     <li><b>Reviewer</b>, ICME, 2021.</li>
     <li><b>Reviewer</b>, TCSVT, PRL, etc.</li>
 </ul>
+
+<h2>My Interests</h2>                          
+<ul>
+    <li>I am a 7-year fan of soccer club <b>Atletico Madrid</b>. Aupa Atleti!</li>
+    <li>I am keen on <b>Film photography</b>!</li>
+</ul>
