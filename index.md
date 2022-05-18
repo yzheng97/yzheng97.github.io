@@ -67,6 +67,6 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 <div class="row">
       <div class="widgetContainer" style="width:300px; margin: 0 auto;">        
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=yZcblN50sSwsCOVmEPYqkPD6Wo-RFHx0E2yb6Ktm_Wk&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=36AXknFMmsFewIeTpfS7cF_miBNWD8Sm_rXwz9hu5J8"></script>
       </div>
 </div>
