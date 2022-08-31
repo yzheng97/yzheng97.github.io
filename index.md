@@ -9,6 +9,7 @@ Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/201105061055320
 research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
 <br />
 <h2>Updates</h2>
+<font size="3"><li><strong>[2022/08/29]</strong> 1 paper on point cloud segmentation accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> TIP</a>.</li></font>
 <font size="3"><li><strong>[2022/03/02]</strong> 2 papers on indoor 3D object detection accepted by <a href="https://cvpr2022.thecvf.com/"> CVPR'22</a>.</li></font>
 <font size="3"><li><strong>[2020/07/03]</strong> 1 paper on outdoor 3D object detection accepted by <a href="https://eccv2020.eu/"> ECCV'20</a>.</li></font>
 <font size="3"><li><strong>[2019/06/05]</strong> I am honored with the Future Scholar Scholarship of Tsinghua University.</li></font>
@@ -55,8 +56,9 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 <h2>Services</h2>                          
 <ul>
     <li><b>Reviewer</b>, ICIP, 2019.</li>
-    <li><b>Reviewer</b>, ICME, 2021.</li>
-    <li><b>Reviewer</b>, TCSVT, PRL, etc.</li>
+    <li><b>Reviewer</b>, ICME, 2021,2022,2023.</li>
+    <li><b>Reviewer</b>, FG, 2023.</li>	
+    <li><b>Reviewer</b>, TIP, TCSVT, PRL, etc.</li>
 </ul>
 
 <h2>My Interests</h2>                          
@@ -66,7 +68,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 </ul>
 
 <div class="row">
-      <div class="widgetContainer" style="width:300px; margin: 0 auto;">        
+      <div class="widgetContainer" style="width:200px; margin: 0 auto;">        
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=36AXknFMmsFewIeTpfS7cF_miBNWD8Sm_rXwz9hu5J8"></script>
       </div>
 </div>
