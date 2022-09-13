@@ -8,8 +8,6 @@ of Automation</a> at <a href="https://www.tsinghua.edu.cn/publish/thu2018en/inde
 Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110506105532098625469/20110506105532098625469_.html"> Jie Zhou</a> and Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent 
 research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.</font>
 
-<font size="3">Feel free to contact me if you want a copy of raw videos in the <a href="https://coin-dataset.github.io/"> COIN dataset</a> !</font>
-
 <br />
 <h2>Updates</h2>
 <font size="3"><li><strong>[2022/08/29]</strong> 1 paper on point cloud segmentation accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> TIP</a>.</li></font>
@@ -53,6 +51,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 		</td>
 	</tr>
+	<font size="3">Feel free to contact me if you want a copy of raw videos in the <a href="https://coin-dataset.github.io/"> COIN dataset</a> !</font>
 </tbody>
 </table>
                     
