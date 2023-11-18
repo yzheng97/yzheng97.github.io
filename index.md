@@ -23,16 +23,27 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 <table class="pub_table">
 <tbody>
 
+ 	<tr>
+		<td class="pub_td1"><img src="assets/img/hyperformer.png" class="papericon" height="100" width="270"></td>
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Zongtai Li, Jie Zhou, Jiwen Lu<br><strong>Learning Dynamic Scene-conditioned 3D Object Detectors </strong><br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2023, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>]
+		</td>
+	</tr>
 
 	<tr>
+		<td class="pub_td1"><img src="assets/img/ras_tip.png" class="papericon" height="100" width="270"></td>
+        <td class="pub_td2"><u>Yu Zheng</u>, Xiuwei Xu, Jie Zhou, Jiwen Lu<br><strong>PointRas: Uncertainty-Aware Multi-Resolution Learning for Point Cloud Segmentation. </strong><br><i>IEEE Transactions on Image Processing (TIP)</i>, 2022, accepted.<br>[<a href="https://ieeexplore.ieee.org/document/9892683">PDF</a>]
+		</td>
+	</tr>
+ 
+	<tr>
 		<td class="pub_td1"><img src="assets/img/hyperdet3d.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zheng_HyperDet3D_Learning_a_CVPR_2022_supplemental.pdf">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
 		</td>
 	</tr>
 	
 	<tr>
 		<td class="pub_td1"><img src="assets/img/br.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2">Xiuwei Xu, Yifan Wang, <u>Yu Zheng</u>, Yongming Rao, Jiwen Lu, Jie Zhou<br><strong>Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>][<a href="https://yzheng97.github.io/">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2">Xiuwei Xu, Yifan Wang, <u>Yu Zheng</u>, Yongming Rao, Jiwen Lu, Jie Zhou<br><strong>Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Back_to_Reality_Weakly-Supervised_3D_Object_Detection_With_Shape-Guided_Label_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Back_to_Reality_CVPR_2022_supplemental.pdf">Supp</a>]
 		</td>
 	</tr>
 
@@ -59,15 +70,13 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
                     
 <h2>Services</h2>                          
 <ul>
-    <li><b>Reviewer</b>, ICIP, 2019.</li>
-    <li><b>Reviewer</b>, ICME, 2021,2022,2023.</li>
-    <li><b>Reviewer</b>, FG, 2023.</li>	
+    <li><b>Reviewer</b>, CVPR, ECCV, ICME, ICIP, FG, etc. </li>
     <li><b>Reviewer</b>, TIP, TCSVT, PRL, etc.</li>
 </ul>
 
 <h2>My Interests</h2>                          
 <ul>
-    <li>I am a 7-year fan of soccer club <b>Atletico Madrid</b>. Aupa Atleti!</li>
+    <li>I am a 8-year fan of soccer club <b>Atletico Madrid</b>. Aupa Atleti!</li>
     <li>I am keen on <b>Film photography</b>!</li>
 </ul>
 
