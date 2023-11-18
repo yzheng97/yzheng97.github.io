@@ -9,7 +9,7 @@ Prof.<a href="https://www.au.tsinghua.edu.cn/info/1078/3126.htm"> Jie Zhou</a> a
 research interests focus on <strong>3D vision</strong>, especially <strong>point cloud analysis</strong> and <strong>NeRF-based neural rendering</strong>.<br></font>
 
 
-<font color="red"><strong>I am actively seeking a postdoctoral position, and if you are interested in my research area, please feel free to contact me!</strong></font>
+<font color="red">I am actively seeking a postdoctoral position, and if you are interested in my research area, please feel free to contact me!</font>
 
 
 <br />
