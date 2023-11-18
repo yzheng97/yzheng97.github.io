@@ -39,7 +39,8 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
  
 	<tr>
 		<td class="pub_td1"><img src="assets/img/hyperdet3d.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<font color="red"><strong>Oral Presentation</strong></font><br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zheng_HyperDet3D_Learning_a_CVPR_2022_supplemental.pdf">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.
+	<font color="red"><strong>Oral Presentation</strong></font><br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zheng_HyperDet3D_Learning_a_CVPR_2022_supplemental.pdf">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
 		</td>
 	</tr>
 	
