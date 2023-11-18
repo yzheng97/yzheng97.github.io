@@ -5,10 +5,12 @@
 <h2>About Me</h2>
 <font size="3">I am a 5th year Ph.D. candidate in the <a href="http://www.au.tsinghua.edu.cn/publish/auen/index.html"> Department 
 of Automation</a> at <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University</a>, advised by 
-Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110506105532098625469/20110506105532098625469_.html"> Jie Zhou</a> and Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent 
-research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.<br></font>
+Prof.<a href="https://www.au.tsinghua.edu.cn/info/1078/3126.htm"> Jie Zhou</a> and Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/index.html/"> Jiwen Lu</a>. My recent 
+research interests focus on <strong>3D vision</strong>, especially <strong>point cloud analysis</strong> and <strong>NeRF-based neural rendering</strong>.<br></font>
 
-<font size="3">Feel free to contact me if you want a copy of raw videos in the <a href="https://coin-dataset.github.io/"> COIN dataset</a> !</font>
+
+<font color="red"><strong>I am actively seeking a postdoctoral position, and if you are interested in my research area, please feel free to contact me!</strong></font>
+
 
 <br />
 <h2>Updates</h2>
@@ -37,7 +39,9 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
  
 	<tr>
 		<td class="pub_td1"><img src="assets/img/hyperdet3d.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zheng_HyperDet3D_Learning_a_CVPR_2022_supplemental.pdf">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Jiwen Lu, Jie Zhou<br><strong>HyperDet3D: Learning a Scene-conditioned 3D Object Detector. </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2022, accepted.<br>
+	      <font color="red"><strong>Oral Presentation</strong></font>
+              <br><br>[<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.pdf">PDF</a>][<a href="https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zheng_HyperDet3D_Learning_a_CVPR_2022_supplemental.pdf">Supp</a>][<a href="https://yzheng97.github.io/">Code</a>]
 		</td>
 	</tr>
 	
