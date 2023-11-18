@@ -3,7 +3,7 @@
 
 
 <h2>About Me</h2>
-<font size="3">I am a 3rd year Ph.D. candidate in the <a href="http://www.au.tsinghua.edu.cn/publish/auen/index.html"> Department 
+<font size="3">I am a 5th year Ph.D. candidate in the <a href="http://www.au.tsinghua.edu.cn/publish/auen/index.html"> Department 
 of Automation</a> at <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html"> Tsinghua University</a>, advised by 
 Prof.<a href="https://www.tsinghua.edu.cn/publish/auen/1713/2011/20110506105532098625469/20110506105532098625469_.html"> Jie Zhou</a> and Prof.<a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/"> Jiwen Lu</a>. My recent 
 research interests focus on <strong>3D vision</strong> and <strong>complex activity analysis</strong>.<br></font>
@@ -12,6 +12,7 @@ research interests focus on <strong>3D vision</strong> and <strong>complex activ
 
 <br />
 <h2>Updates</h2>
+<font size="3"><li><strong>[2023/11/18]</strong> 1 paper on 3D object detection accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"> TPAMI</a>.</li></font>
 <font size="3"><li><strong>[2022/08/29]</strong> 1 paper on point cloud segmentation accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> TIP</a>.</li></font>
 <font size="3"><li><strong>[2022/03/02]</strong> 2 papers on indoor 3D object detection accepted by <a href="https://cvpr2022.thecvf.com/"> CVPR'22</a>.</li></font>
 <font size="3"><li><strong>[2020/07/03]</strong> 1 paper on outdoor 3D object detection accepted by <a href="https://eccv2020.eu/"> ECCV'20</a>.</li></font>
