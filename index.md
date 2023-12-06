@@ -33,7 +33,7 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
 
 	<tr>
 		<td class="pub_td1"><img src="assets/img/ras_tip.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Xiuwei Xu, Jie Zhou, Jiwen Lu<br><strong>PointRas: Uncertainty-Aware Multi-Resolution Learning for Point Cloud Segmentation. </strong><br><i>IEEE Transactions on Image Processing (TIP)</i>, 2022, accepted.<br>[<a href="https://ieeexplore.ieee.org/document/9892683">PDF</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Xiuwei Xu, Jie Zhou, Jiwen Lu<br><strong>PointRas: Uncertainty-Aware Multi-Resolution Learning for Point Cloud Segmentation. </strong><br><i>IEEE Transactions on Image Processing (TIP)</i>, 2022, accepted.<br>[<a href="https://ieeexplore.ieee.org/document/9892683">PDF</a>][<a href="https://github.com/yzheng97/PointRas/tree/main">Code</a>]
 		</td>
 	</tr>
  
