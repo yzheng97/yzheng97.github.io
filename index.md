@@ -31,6 +31,12 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
 		</td>
 	</tr>
 
+ 	<tr>
+		<td class="pub_td1"><img src="assets/img/teaser_sray.png" class="papericon" height="100" width="270"></td>
+        <td class="pub_td2">Fangfu Liu, Chubin Zhang, <u>Yu Zheng</u>, Yueqi Duan<br><strong>Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023, accepted.<br>[<a href="https://arxiv.org/pdf/2303.13014">PDF</a>]
+		</td>
+	</tr>
+
 	<tr>
 		<td class="pub_td1"><img src="assets/img/ras_tip.png" class="papericon" height="100" width="270"></td>
         <td class="pub_td2"><u>Yu Zheng</u>, Xiuwei Xu, Jie Zhou, Jiwen Lu<br><strong>PointRas: Uncertainty-Aware Multi-Resolution Learning for Point Cloud Segmentation. </strong><br><i>IEEE Transactions on Image Processing (TIP)</i>, 2022, accepted.<br>[<a href="https://ieeexplore.ieee.org/document/9892683">PDF</a>][<a href="https://github.com/yzheng97/PointRas/tree/main">Code</a>]
