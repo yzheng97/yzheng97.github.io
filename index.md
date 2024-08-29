@@ -14,6 +14,7 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
 
 <br />
 <h2>Updates</h2>
+<font size="3"><li><strong>[2024/08/21]</strong> 1 paper on point cloud analysis accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> TIP</a>.</li></font>
 <font size="3"><li><strong>[2023/11/18]</strong> 1 paper on 3D object detection accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"> TPAMI</a>.</li></font>
 <font size="3"><li><strong>[2022/08/29]</strong> 1 paper on point cloud segmentation accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"> TIP</a>.</li></font>
 <font size="3"><li><strong>[2022/03/02]</strong> 2 papers on indoor 3D object detection accepted by <a href="https://cvpr2022.thecvf.com/"> CVPR'22</a>.</li></font>
@@ -27,13 +28,13 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
 
  	<tr>
 		<td class="pub_td1"><img src="assets/img/hyperformer.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Zongtai Li, Jie Zhou, Jiwen Lu<br><strong>Learning Dynamic Scene-conditioned 3D Object Detectors </strong><br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2023, accepted.<br>[<a href="https://yzheng97.github.io/">PDF</a>]
+        <td class="pub_td2"><u>Yu Zheng</u>, Yueqi Duan, Zongtai Li, Jie Zhou, Jiwen Lu<br><strong>Learning Dynamic Scene-conditioned 3D Object Detectors </strong><br><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2023, accepted.<br>[<a href="https://ieeexplore.ieee.org/document/10330125/">PDF</a>]
 		</td>
 	</tr>
 
  	<tr>
 		<td class="pub_td1"><img src="assets/img/teaser_sray.png" class="papericon" height="100" width="270"></td>
-        <td class="pub_td2">Fangfu Liu, Chubin Zhang, <u>Yu Zheng</u>, Yueqi Duan<br><strong>Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023, accepted.<br>[<a href="https://arxiv.org/pdf/2303.13014">PDF</a>]
+        <td class="pub_td2">Fangfu Liu, Chubin Zhang, <u>Yu Zheng</u>, Yueqi Duan<br><strong>Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention </strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023, accepted.<br>[<a href="https://arxiv.org/pdf/2303.13014">PDF</a>][<a href="https://github.com/liuff19/Semantic-Ray">Code</a>]
 		</td>
 	</tr>
 
