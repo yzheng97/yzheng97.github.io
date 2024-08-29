@@ -71,7 +71,7 @@ research interests focus on <strong>3D vision</strong>, especially <strong>point
 	
 	<tr>
 		<td class="pub_td1"><img src="assets/img/coin.png" class="papericon" height="75" width="270"></td>
-        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Tang_COIN_A_Large-Scale_CVPR_2019_supplemental.pdf">Supp</a>][<a href="https://coin-dataset.github.io/">Project Page</a>]
+        <td class="pub_td2">Yansong Tang, Dajun Ding, Yongming Rao, <u>Yu Zheng</u>, Danyang Zhang, Lili Zhao, Jiwen Lu, Jie Zhou<br><strong>COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis.</strong><br><i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2019, accepted.<br>[<a href="https://arxiv.org/abs/1903.02874">PDF</a>][<a href="https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Tang_COIN_A_Large-Scale_CVPR_2019_supplemental.pdf">Supp</a>][<a href="https://coin-dataset.github.io/">Project Page</a>][<a href="https://cloud.tsinghua.edu.cn/d/6a5088b6f2be4262a01b/">Dataset Download</a>][<a href="https://github.com/chenyifanthu/THU-Cloud-Downloader/">Download Tool</a>]
 
 		</td>
 	</tr>
